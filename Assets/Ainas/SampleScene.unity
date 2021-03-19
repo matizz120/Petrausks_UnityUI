@@ -169,6 +169,7 @@ GameObject:
   - component: {fileID: 120893752}
   - component: {fileID: 120893754}
   - component: {fileID: 120893753}
+  - component: {fileID: 120893755}
   m_Layer: 5
   m_Name: cepure1
   m_TagString: Untagged
@@ -232,6 +233,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 120893751}
   m_CullTransparentMesh: 0
+--- !u!114 &120893755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120893751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &140468259
 GameObject:
   m_ObjectHideFlags: 0
@@ -1169,6 +1183,7 @@ GameObject:
   - component: {fileID: 767059375}
   - component: {fileID: 767059377}
   - component: {fileID: 767059376}
+  - component: {fileID: 767059378}
   m_Layer: 5
   m_Name: cepure2
   m_TagString: Untagged
@@ -1232,6 +1247,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 767059374}
   m_CullTransparentMesh: 0
+--- !u!114 &767059378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767059374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &768424868
 GameObject:
   m_ObjectHideFlags: 0
@@ -1733,6 +1761,7 @@ GameObject:
   - component: {fileID: 933879134}
   - component: {fileID: 933879136}
   - component: {fileID: 933879135}
+  - component: {fileID: 933879137}
   m_Layer: 5
   m_Name: bikses1
   m_TagString: Untagged
@@ -1796,6 +1825,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 933879133}
   m_CullTransparentMesh: 0
+--- !u!114 &933879137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 933879133}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &937182696
 GameObject:
   m_ObjectHideFlags: 0
@@ -2346,6 +2388,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1103158744}
+  - component: {fileID: 1103158745}
   m_Layer: 5
   m_Name: kurpparis1
   m_TagString: Untagged
@@ -2374,6 +2417,19 @@ RectTransform:
   m_AnchoredPosition: {x: 3.4299316, y: 36.699997}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1103158745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1103158743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &1168637177
 GameObject:
   m_ObjectHideFlags: 0
@@ -2471,6 +2527,7 @@ GameObject:
   - component: {fileID: 1187917316}
   - component: {fileID: 1187917318}
   - component: {fileID: 1187917317}
+  - component: {fileID: 1187917319}
   m_Layer: 5
   m_Name: bikses2
   m_TagString: Untagged
@@ -2534,6 +2591,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1187917315}
   m_CullTransparentMesh: 0
+--- !u!114 &1187917319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1187917315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &1202082738
 GameObject:
   m_ObjectHideFlags: 0
@@ -2733,6 +2803,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1271034389}
+  - component: {fileID: 1271034390}
   m_Layer: 5
   m_Name: kurpparis2
   m_TagString: Untagged
@@ -2761,6 +2832,19 @@ RectTransform:
   m_AnchoredPosition: {x: -30.570068, y: -48.300003}
   m_SizeDelta: {x: 238.20312, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1271034390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1271034388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &1381764137
 GameObject:
   m_ObjectHideFlags: 0
@@ -3017,6 +3101,7 @@ GameObject:
   - component: {fileID: 1457971263}
   - component: {fileID: 1457971265}
   - component: {fileID: 1457971264}
+  - component: {fileID: 1457971266}
   m_Layer: 5
   m_Name: krekls1
   m_TagString: Untagged
@@ -3080,6 +3165,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1457971262}
   m_CullTransparentMesh: 0
+--- !u!114 &1457971266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1457971262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &1459674866
 GameObject:
   m_ObjectHideFlags: 0
@@ -3284,6 +3382,7 @@ GameObject:
   - component: {fileID: 1510543532}
   - component: {fileID: 1510543534}
   - component: {fileID: 1510543533}
+  - component: {fileID: 1510543535}
   m_Layer: 5
   m_Name: krekls2
   m_TagString: Untagged
@@ -3347,6 +3446,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510543531}
   m_CullTransparentMesh: 0
+--- !u!114 &1510543535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1510543531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99ef81814c0ad469a6a57a3cd00d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kanva: {fileID: 140468263}
 --- !u!1 &1515710382
 GameObject:
   m_ObjectHideFlags: 0
