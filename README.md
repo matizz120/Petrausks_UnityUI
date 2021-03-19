@@ -1,5 +1,5 @@
 # Petrausks_UnityUI
 - [x] Projektu versioneðana
 - [x] Apìerbu maiòa
-- [ ] Cilvçka lielums
-- [ ] Izgrûþana uz GitHub
+- [x] Cilvçka lielums
+- [x] Izgrûþana uz GitHub
